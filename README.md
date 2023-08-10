@@ -76,5 +76,3 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 Created by [DevBarham](https://github.com/DevBarham)
 ```
-
-Remember to replace "Your Name" and "YourUsername" with your actual name and GitHub username. Additionally, make sure to customize the instructions, descriptions, and any other content to accurately reflect the purpose of your repository.
